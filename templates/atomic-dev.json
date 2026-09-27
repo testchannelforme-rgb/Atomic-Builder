@@ -1,0 +1,155 @@
+{
+  "name": "Atomic.Dev",
+  "roles": [
+    {
+      "name": "Developer",
+      "color": "#5865F2",
+      "hoist": true
+    },
+    {
+      "name": "Moderator",
+      "color": "#57F287",
+      "hoist": true
+    },
+    {
+      "name": "Contributor",
+      "color": "#FEE75C"
+    },
+    {
+      "name": "Beta Tester",
+      "color": "#EB459E"
+    },
+    {
+      "name": "GridHQ",
+      "color": "#ED4245"
+    },
+    {
+      "name": "Still",
+      "color": "#3498DB"
+    },
+    {
+      "name": "LEFT",
+      "color": "#2ECC71"
+    },
+    {
+      "name": "Member",
+      "color": "#95A5A6"
+    }
+  ],
+  "categories": [
+    {
+      "name": "⚛️ START HERE",
+      "channels": [
+        {
+          "name": "welcome",
+          "type": "text"
+        },
+        {
+          "name": "rules",
+          "type": "text"
+        },
+        {
+          "name": "announcements",
+          "type": "text"
+        },
+        {
+          "name": "links",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "🌐 COMMUNITY",
+      "channels": [
+        {
+          "name": "general",
+          "type": "text"
+        },
+        {
+          "name": "introductions",
+          "type": "text"
+        },
+        {
+          "name": "showcase",
+          "type": "text"
+        },
+        {
+          "name": "general-vc",
+          "type": "voice"
+        }
+      ]
+    },
+    {
+      "name": "🏎️ GRIDHQ",
+      "channels": [
+        {
+          "name": "gridhq-chat",
+          "type": "text"
+        },
+        {
+          "name": "gridhq-updates",
+          "type": "text"
+        },
+        {
+          "name": "gridhq-feedback",
+          "type": "forum"
+        }
+      ]
+    },
+    {
+      "name": "📚 STILL",
+      "channels": [
+        {
+          "name": "still-chat",
+          "type": "text"
+        },
+        {
+          "name": "still-updates",
+          "type": "text"
+        },
+        {
+          "name": "still-feedback",
+          "type": "forum"
+        }
+      ]
+    },
+    {
+      "name": "💰 LEFT",
+      "channels": [
+        {
+          "name": "left-chat",
+          "type": "text"
+        },
+        {
+          "name": "left-updates",
+          "type": "text"
+        },
+        {
+          "name": "left-feedback",
+          "type": "forum"
+        }
+      ]
+    },
+    {
+      "name": "🧪 DEVELOPMENT",
+      "channels": [
+        {
+          "name": "bug-reports",
+          "type": "forum"
+        },
+        {
+          "name": "feature-requests",
+          "type": "forum"
+        },
+        {
+          "name": "beta-testing",
+          "type": "text"
+        },
+        {
+          "name": "sneak-peeks",
+          "type": "text"
+        }
+      ]
+    }
+  ]
+}
